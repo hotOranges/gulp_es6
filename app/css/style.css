@@ -1,0 +1,21 @@
+#main li {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: #aaa;
+}
+.ball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+.ball1{
+    background-color: red;
+}
+.ball2{
+    background-color:green; 
+}
+.ball3{
+    background-color: blue;
+}
